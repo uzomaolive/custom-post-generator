@@ -6,4 +6,9 @@ Version: 1.0
 Author: Olive Uzoma
 */
 
+// Exit if accessed directly
+if (!defined('ABSPATH')) {
+    exit;
+}
+
 
